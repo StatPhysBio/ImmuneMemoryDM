@@ -7,7 +7,7 @@ It allows reproduction and a simplified visualization of the numerical results r
 
 ## Dependencies
 
-The code is written in Julia and depends on several packages. Below we give a list of version numbers of the packages for which the code is known to run.
+The code is written in [Julia](https://julialang.org) and depends on several packages. Below we give a list of version numbers of the packages for which the code is known to run.
 - Julia 1.5.3
 - Distributions 0.24.6
 - SpecialFunctions 1.1.0
